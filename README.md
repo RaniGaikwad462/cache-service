@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# clothstyle
-Testapp forAI and hashmap
-=======
-# 🎨 Outfit Color Matcher
+# ClothStyle - AI-Powered Outfit Color Matcher
 
 An AI-powered clothing color coordination web application built with Python, featuring hashmap-based fast lookups for outfit suggestions.
 
@@ -252,4 +248,3 @@ For questions, issues, or contributions, please open an issue on GitHub or conta
 ---
 
 **Built with ❤️ using Python, hashmaps, and color theory**
->>>>>>> 556431f (Initial commit after reset)
